@@ -1,5 +1,5 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
-<h1 align="center">Heya🇮🇳, I'm Debanjana Chanda</h1>
+<h1 align="center">Heya, I'm Debanjana Chanda</h1>
 <h3 align="center">A passionate Python and RPA Bot Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://corebitweb.com/wp-content/uploads/2021/09/blockchain-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debu03&label=Profile%20views&color=0e75b6&style=flat" alt="debu03" /> </p>
